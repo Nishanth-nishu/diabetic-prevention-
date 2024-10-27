@@ -1,0 +1,8 @@
+[2024-10-22 15:10:49,805] 97 werkzeug - WARNING -  * Debugger is active!
+[2024-10-22 15:10:49,808] 97 werkzeug - INFO -  * Debugger PIN: 934-216-200
+[2024-10-22 15:11:01,780] 97 werkzeug - INFO - 127.0.0.1 - - [22/Oct/2024 15:11:01] "GET / HTTP/1.1" 200 -
+[2024-10-22 15:11:02,035] 97 werkzeug - INFO - 127.0.0.1 - - [22/Oct/2024 15:11:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2024-10-22 15:11:02,155] 97 werkzeug - INFO - 127.0.0.1 - - [22/Oct/2024 15:11:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-10-22 15:19:56,934] 54 root - ERROR - Error occurred: cannot access local variable 'model' where it is not associated with a value
+[2024-10-22 15:19:56,935] 97 werkzeug - INFO - 127.0.0.1 - - [22/Oct/2024 15:19:56] "POST /predict HTTP/1.1" 200 -
+[2024-10-22 15:33:30,691] 97 werkzeug - INFO -  * Detected change in 'e:\\PBA-14\\src\\pipeline\\prediction.py', reloading

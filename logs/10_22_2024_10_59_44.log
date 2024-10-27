@@ -1,0 +1,4 @@
+[2024-10-22 10:59:45,552] 97 werkzeug - WARNING -  * Debugger is active!
+[2024-10-22 10:59:45,554] 97 werkzeug - INFO -  * Debugger PIN: 934-216-200
+[2024-10-22 11:00:12,125] 97 werkzeug - INFO - 127.0.0.1 - - [22/Oct/2024 11:00:12] "GET / HTTP/1.1" 200 -
+[2024-10-22 11:00:12,205] 97 werkzeug - INFO - 127.0.0.1 - - [22/Oct/2024 11:00:12] "GET /static/styles.css HTTP/1.1" 200 -

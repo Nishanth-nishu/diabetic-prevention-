@@ -1,0 +1,5 @@
+[2024-10-21 13:38:52,059] 19 root - INFO - Data loaded successfully from E:\PBA-14\src\pipeline\diabetes (1).csv
+[2024-10-21 13:38:52,061] 33 root - INFO - Data split into training and testing sets
+[2024-10-21 13:38:53,683] 38 root - INFO - Model trained successfully
+[2024-10-21 13:38:53,685] 43 root - INFO - Model accuracy: 0.7532
+[2024-10-21 13:38:53,706] 54 root - INFO - Model saved successfully at E:\PBA-14\src\pipeline\trained_model.pkl

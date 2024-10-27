@@ -1,0 +1,7 @@
+[2024-10-21 14:57:25,862] 97 werkzeug - WARNING -  * Debugger is active!
+[2024-10-21 14:57:25,864] 97 werkzeug - INFO -  * Debugger PIN: 934-216-200
+[2024-10-21 14:58:13,322] 97 werkzeug - INFO - 127.0.0.1 - - [21/Oct/2024 14:58:13] "GET / HTTP/1.1" 200 -
+[2024-10-21 14:58:13,404] 97 werkzeug - INFO - 127.0.0.1 - - [21/Oct/2024 14:58:13] "GET /static/styles.css HTTP/1.1" 200 -
+[2024-10-21 14:58:13,433] 97 werkzeug - INFO - 127.0.0.1 - - [21/Oct/2024 14:58:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-10-21 14:58:34,751] 54 root - ERROR - Error occurred: cannot access local variable 'model' where it is not associated with a value
+[2024-10-21 14:58:34,752] 97 werkzeug - INFO - 127.0.0.1 - - [21/Oct/2024 14:58:34] "POST /predict HTTP/1.1" 200 -
