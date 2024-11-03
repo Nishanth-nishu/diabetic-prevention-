@@ -44,6 +44,6 @@ The assistant is designed to be interactive and user-friendly. Users input their
    - If diabetes is predicted, Gemini provides a structured plan for managing blood glucose.
 4. **Feedback Output**: The system presents a comprehensive report on the user’s health status and recommended actions, fostering self-management and prevention.
 
-
+**video explanation link**: https://www.veed.io/view/7bd708bf-1c01-4957-bae3-883fb209d823?panel=share
 
 In summary, this project combines the predictive power of machine learning with Gemini’s generative capabilities to provide personalized health guidance for diabetes prevention and management.
